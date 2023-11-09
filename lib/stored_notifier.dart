@@ -1,0 +1,1 @@
+library stored_notifier;
